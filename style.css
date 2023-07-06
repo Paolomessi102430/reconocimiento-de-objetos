@@ -1,0 +1,21 @@
+body
+{
+  color: white;
+  background-image: url(messiiiii.jpg);
+}
+.titulo
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camara
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.objetos,resultado1,rsultado2
+{
+  color: yellow;
+}
+
